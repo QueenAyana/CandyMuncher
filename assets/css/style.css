@@ -1,0 +1,135 @@
+#green{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    left: 34%;
+}
+#blue{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    left: 34%;
+}
+#purple{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    left: 34%;
+}
+#gold{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    left: 34%;
+}
+#rules{
+    color: seashell;
+    background: rgba(40, 75, 75, 0.63);
+    font-size: 16pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    width: 50%;
+    margin: 20px 0 20px 15px;
+    border: dotted chartreuse 20px;
+    border-radius: 25%;
+    text-align: center;
+    padding: 20px 50px 20px 50px;
+    position: relative;
+    left: 20%;
+    list-style-type: none;
+}
+header{
+    height: 50px;
+    color: crimson;
+    background: black;
+    font-size: 29pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    margin: 20px 0 20px 15px;
+    border: ridge crimson 25px;
+    border-radius: 10%;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    position: sticky
+}
+#barker{
+    color: blanchedalmond;
+    background:rgba(40, 75, 75, 0.63);
+    font-size: 16pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    margin: 20px 0 20px 20px;
+    border: solid 10px;
+    border-radius: 25%;
+    text-align: center;
+    padding: 20px 20px 20px 20px
+}
+#goal{
+    width: 25%;
+    color: crimson;
+    background: black;
+    font-size: 16pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    margin: 20px 0 20px 15px;
+    border: ridge crimson 15px;
+    border-radius: 30%;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    float: left;
+    position: relative;
+    bottom: 150px;
+    left: 30px
+    
+}
+#score{
+    width: 25%;
+    color: crimson;
+    background: black;
+    font-size: 16pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    margin: 20px 0 20px 15px;
+    border: ridge crimson 15px;
+    border-radius: 30%;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    float: right;
+    position: relative;
+    bottom: 150px;
+    right: 30px
+
+}
+#engrams{
+    z-index: 1;
+    position: relative;
+}
+body{
+    background-image: url(http://0.media.dorkly.cvcdn.com/95/40/037118ac655e43b5c6d1bb074ec0c90a-destiny-the-official-dorkly-review.jpg);
+}
+#colors{
+    background: rgba(40, 75, 75, 0.63);
+    font-size: 16pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    width: 50%;
+    border-radius: 25%;
+    text-align: center;
+    padding: 20px 50px 20px 50px;
+    position: relative;
+    left: 18%;
+    list-style-type: none;
+
+}
+#start{
+    width: 50%;
+    height: 50px;
+    color: crimson;
+    background: black;
+    font-size: 12pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    border: ridge crimson 5px;
+    border-radius: 30%;
+    text-align: center;
+}
